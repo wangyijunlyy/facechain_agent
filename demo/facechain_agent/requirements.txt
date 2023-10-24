@@ -12,7 +12,7 @@ numpy==1.22.0
 protobuf==3.20.1
 timm
 scikit-image
-gradio
+gradio==3.29.0
 controlnet_aux==0.0.6
 mediapipe
 python-slugify
@@ -32,4 +32,7 @@ python-dotenv
 soundfile
 transformers>=4.29.0
 transformers_stream_generator
-funasr
+markdown_katex
+mdx_truly_sane_lists
+markdown-cjk-spacing
+pymdown-extensions
